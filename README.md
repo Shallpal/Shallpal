@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Shallpal
+- 🌱 I’m currently learning python3
